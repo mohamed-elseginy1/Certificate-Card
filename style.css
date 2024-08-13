@@ -1,0 +1,53 @@
+.member1{
+    background-color: #eee;
+    width: 300px;
+    padding: 10px;
+    margin: 20px;
+    height: 310px;
+}
+
+.Heading{
+    background-color: #eee;
+    padding: 10px;
+    margin: 10px; 
+    margin-top: 200px;
+    text-align: center; 
+    margin-bottom: 5px;
+    margin-top: 4%;
+    
+}
+.link{
+    text-align: center;
+    margin: 0px;
+    margin-top: -12px;
+    padding: 0px;
+}
+div div a{
+    display: inline-block;
+    margin: 0px;
+    margin-top: -50px;
+    padding: 0px;
+}
+
+
+.image{
+    width: 300px;
+    height: 190px;
+    margin-right: 10010px;
+    padding: 0px;
+    display:block;
+}
+
+div div .button1{
+    text-align: center;
+    margin-top: 10px;
+}
+
+div div .button1 button:hover{
+    color: blue;
+    text-decoration: underline;
+}
+
+.container .member1:hover{
+    /* opacity: 70%; */
+}
